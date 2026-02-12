@@ -3,10 +3,8 @@ First repository
 2 22222222
 йцу
 
-ук
-
-пку
-
+wse
+пеке
 
 По Task5
 
