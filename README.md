@@ -6,8 +6,5 @@ First repository
 wse
 пеке
 
-ке
-ек
-рп
-кепек
-епр
+По Task5
+
